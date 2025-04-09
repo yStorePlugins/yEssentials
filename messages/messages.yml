@@ -69,6 +69,7 @@ Alert:
   Actionbar: '&c&l[Anúncio] {msg}'
   # Mensagem enviada ao transmitir pelo console
   Transmitiu: '&aVocê transmitiu um anúncio.'
+  Transmitiu player: '&aVocê transmitiu um anúncio para {target}.'
 # Mensagens do sistema de god
 God:
   Ativou: '&aVocê ativou o &7GodMode.'

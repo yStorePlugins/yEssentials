@@ -104,3 +104,4 @@ Commands:
   Top: 'top'
   BlockDebug: 'blockdebug'
   Itemgive: 'itemgive|giveitem'
+  Alertpv: 'alertapv|alertpv|alertadm|alertdm'
