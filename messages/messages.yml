@@ -454,3 +454,5 @@ Outros:
   Item-give: '&aVocê deu &fx{amount} {item}&a para o jogador &f{player}&a.'
   No-balance: '&cVocê não tem {provider_display} suficiente para isto. Disponível: {provider_balance}&c.'
   Comando-Bloqueado-Staff: '&cO jogador {player} executou o comando bloqueado: "{command}".'
+  RTP Mundo encontrado: '&cO mundo configurado está errado. Contate um staff.'
+  Mundo encontrado: '&cEste mundo não existe.'
