@@ -456,3 +456,4 @@ Outros:
   Comando-Bloqueado-Staff: '&cO jogador {player} executou o comando bloqueado: "{command}".'
   RTP Mundo encontrado: '&cO mundo configurado está errado. Contate um staff.'
   Mundo encontrado: '&cEste mundo não existe.'
+  Max enchant: '&cVocê pode encantar no máximo {max} léveis.'
