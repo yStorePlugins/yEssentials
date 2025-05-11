@@ -456,4 +456,8 @@ Outros:
   Comando-Bloqueado-Staff: '&cO jogador {player} executou o comando bloqueado: "{command}".'
   RTP Mundo encontrado: '&cO mundo configurado está errado. Contate um staff.'
   Mundo encontrado: '&cEste mundo não existe.'
+<<<<<<< HEAD
   Max enchant: '&cVocê pode encantar no máximo {max} léveis.'
+=======
+  Max enchant: '&cVocê pode encantar no máximo {max} léveis.'
+>>>>>>> 8b65c205c7741fd7ca0e0205b2c72e50fe7a1bfd
