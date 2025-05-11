@@ -3,7 +3,7 @@
 Delay: 60
 
 # Lista de domínios permitidos
-domain-whitelist: [ 'https', 'http', 'www', '' ]
+domain-whitelist: [ 'https', 'http', 'www' ]
 
 # tipos de divulgação
 Divulgar:
