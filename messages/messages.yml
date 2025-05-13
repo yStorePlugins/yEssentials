@@ -116,6 +116,8 @@ Repair:
   Maximo: '&cEste item já está reparado.'
   Nenhum: '&cVocê não tem nenhum item que possa ser reparado.'
   All: '&aVocê reparou os itens no seu inventário.'
+  Nenhum player: '&cO jogador {player} não tem nenhum item que possa ser reparado.'
+  All player: '&aVocê reparou os itens no inventário do jogador {player}.'
 # Mensagens do sistema de speed
 Speed:
   Clear: '&aSua velocidade foi definida para padrão.'
@@ -457,3 +459,5 @@ Outros:
   RTP Mundo encontrado: '&cO mundo configurado está errado. Contate um staff.'
   Mundo encontrado: '&cEste mundo não existe.'
   Max enchant: '&cVocê pode encantar no máximo &f{max}&c leveis.'
+  Chunk on: '&aDebug de chunk ativado.'
+  Chunk off: '&cDebug de chunk desativado.'
