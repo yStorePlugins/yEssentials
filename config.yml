@@ -21,6 +21,9 @@ Opcoes:
   Kit cheio: true
   # Teleportar ao spawn quando morrer
   Death spawn: true
+  # Teleportar ao local da última cama dormida quando morrer
+  # Caso não tenha, irá teleportar para o spawn (caso o Death Spawn esteja true)
+  Bed spawn: true
   # Remover a tela de respawn
   NoRespawnScreen: true
   # Sistema de back pegar a localização da morte
