@@ -360,6 +360,7 @@ Outros:
     &aData: &f{data}
     &aEncantamentos: &f{enchants}
     &aNBTTags: &f{nbttags}
+    &aFlags: &f{flags}
   Freeze: '&bVocê congelou o jogador &f{player}&b.'
   Freeze player: '&bVocê foi congelado por &f{player}&b.'
   Unfreeze: '&bVocê descongelou o jogador &f{player}&b.'
