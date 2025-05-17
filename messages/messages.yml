@@ -21,6 +21,7 @@ Kit:
     &a/editarkit display <kit> <display> &f- &7Edite o display do kit.
     &a/editarkit delay <kit> <delay> &f- &7Edite o delay para pegar o kit.
   Time player: '&cO jogador &f{player}&c ainda precisa aguardar &f{tempo}&c.'
+  Time player none: '&cO jogador &f{player}&c já pode pegar o kit.'
 # Mensagens do sistema de spawn
 Spawn:
   Setou: '&aVocê definiu o local de spawn.'
