@@ -142,6 +142,8 @@ Opcoes:
   Bloquear ovo spawner: true
   # Bloquear players com vanish pegar itens
   Bloquear vanish item: true
+  # Blacklist de caracteres no /nick
+  Nick blacklist: [ 'ç', '.', ',', '-', '[', ']', '{', '}', '=', '+', '<', '>', ';', '/', '?', '\', '|', '~', '^', '´', '`', '(', ')', '*', '¨', '%', '$', '#', '@', '!', '°', 'º' ]
   # Identificador do kick por spam
   # Permissão para não ser kickado: yessentials.antispam.bypass
   AntiSpam identificador: 'disconnect.spam'

@@ -441,6 +441,7 @@ Outros:
   Nick alterado player: '&aVocê alterou o nick de &f{player}&a para &f{nick}&a.'
   Nick palavra bloqueada: '&cEsta palavra {palavra} está bloqueada no /nick.'
   Nick apenas cor: '&cVocê pode alterar apenas a cor do seu nome.'
+  Nick blacklisted: '&cO nick informado contém caracteres ilegais.'
   Registrou: |
 
     &e&lANUNCIO! &fO jogador &6{player}&f entrou pela primeira vez no servidor!
