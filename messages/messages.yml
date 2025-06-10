@@ -464,3 +464,4 @@ Outros:
   Max enchant: '&cVocê pode encantar no máximo &f{max}&c leveis.'
   Chunk on: '&aDebug de chunk ativado.'
   Chunk off: '&cDebug de chunk desativado.'
+  Top blacklisted: '&cNão podes executar o /top neste mundo.'
